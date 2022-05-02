@@ -1,0 +1,121 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-image: url(images/asdasdasd.png);
+}
+
+/* https://www.pexels.com/photo/blue-abstract-painting-268415/
+https://www.pexels.com/photo/wall-bricks-220182/
+https://www.pexels.com/photo/blue-wallpaper-2680270/
+https://www.pexels.com/photo/brown-wooden-parquet-flooring-129731/ */
+
+
+main {
+ color: black;
+}
+
+.sub2 {
+    margin: 10px auto;
+    color: #293651;
+    font-weight: 400;
+}
+
+.navy-texto {
+    color: #293651;
+}
+.sub3{
+    color: #484b64;
+    font-weight: lighter;
+    margin: 20px auto;
+}
+
+.titulo {
+    font-weight: 900;
+    color: #293651;
+}
+
+.verde-text {
+    color: #00a68e;
+}
+
+.verde-fundo {
+    background-color: #00a68e;
+}
+
+.centralizar {
+    padding: 0 30%;
+}
+
+.secao {
+    padding: 5% 0;
+    /* height: 100vh; aqui se usa control + barra*/
+}
+
+.block {
+    display: block;
+}
+
+.foto {
+    margin: auto;
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    
+}
+
+.botao {
+    display: block;
+    width: 220px;
+    padding: 15px 10px;
+    border-radius: 8px;
+    margin: 10px 0 30px 0;
+    text-align: center;
+    color: white;
+}
+
+.block {
+    display: block;
+}
+
+.boladao {
+    font-size: 36pt;
+    font-weight: 600;
+}
+
+.linha {
+    height: 100px;
+    border-top: 5px solid #00a68e;
+    margin: 20px 0;
+}
+
+.texto {
+    font-size: 16pt;
+    color: #484b64;
+}
+/* olha aqui tem coisa  */
+label {
+    margin: 30px;
+    display: inline-block;
+}
+
+.bg-cinza {
+    background-color: #f9f9f9;
+    padding: 50px 10%;
+}
+
+.painel {
+    column-count: 2;
+    max-width: 630px;
+    margin: auto; /*testar*/
+}
+
+/* .quadrado {
+    background-color: white;
+    width: 100%;
+    display: inline-block;
+    min-height: 300px;
+    margin: 5%;
+    max-width: 300px;
+    padding: 10%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px #c6c6c6;
+} */
